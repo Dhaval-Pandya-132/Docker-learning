@@ -1,2 +1,2 @@
-# Docker-learning
-Learning docker and Kubernetes
+# docker-learning
+docker learning sample project 
