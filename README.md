@@ -1,2 +1,2 @@
 # docker-learning
-docker learning sample project 
+docker learning with sample project 
