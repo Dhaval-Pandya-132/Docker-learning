@@ -11,6 +11,7 @@ script:
 deploy:
   provider: elasticbeanstalk
   region: "us-east-1"
+  file: "./frontend/"
   app: "Web-app-test"
   env: "Web-app-test-env"
   bucket_name: "elasticbeanstalk-us-east-1-886640936384"
